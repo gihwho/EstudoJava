@@ -1,4 +1,4 @@
-package Iniciante.CadastroNinjas;
+package Iniciante;
 
 import java.util.Scanner;
 
@@ -41,7 +41,7 @@ public class CadastroNinjas {
                         System.out.println("Nenhum ninja na lista");
                     } else {
                         for (int i = 0; i < ninjas.length; i++) {
-                            System.out.println(ninjas[i] + "ID - " + i);
+                            System.out.println(ninjas[i] + " ID - " + i);
                         }
                     }
                     break;
