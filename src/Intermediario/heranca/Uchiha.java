@@ -1,7 +1,7 @@
 package Intermediario.heranca;
 
 public class Uchiha extends Ninja {
-    String habilidadeEspecial;
+    String habilidadeEspecial = "Amaterasu!";
 
     public void mostrarHabilidadeEspecial() {
         System.out.println("Habilidade Especial: " + habilidadeEspecial);
@@ -13,6 +13,6 @@ public class Uchiha extends Ninja {
         System.out.println("Missao = " + missao);
         System.out.println("Nivel de dificuldade = " + nivelDeDificuldade);
         System.out.println("Status da Missao = " + statusDaMissao);
-        System.out.println("habilidade especial Uchiha");
+        mostrarHabilidadeEspecial();
     }
 }
