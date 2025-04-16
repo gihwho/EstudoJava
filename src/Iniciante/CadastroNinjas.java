@@ -26,7 +26,7 @@ public class CadastroNinjas {
 
             switch (opcoes) {
                 case 1:
-                    if (ninjasCadastrados < NUM_MAX){
+                    if (ninjasCadastrados < NUM_MAX) {
                         System.out.println("Digite o nome do ninja: ");
                         String nome = input.nextLine();
                         ninjas[ninjasCadastrados] = nome;

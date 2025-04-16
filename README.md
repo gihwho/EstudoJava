@@ -1,10 +1,12 @@
 # Java & Naruto: Pequenos Projetos para Grandes Conceitos!
 
-Este repositório é uma coletânea de pequenas aplicações desenvolvidas em **Java (JDK 22)** com o objetivo de **praticar e consolidar conceitos da linguagem**, utilizando como inspiração o universo do anime **Naruto**.
+Este repositório é uma coletânea de pequenas aplicações desenvolvidas em **Java (JDK 22)** com o objetivo de **praticar
+e consolidar conceitos da linguagem**, utilizando como inspiração o universo do anime **Naruto**.
 
 ## Objetivo
 
-Explorar e aplicar fundamentos da programação Java de forma didática, divertida e contextualizada com personagens, clãs e elementos do mundo ninja.
+Explorar e aplicar fundamentos da programação Java de forma didática, divertida e contextualizada com personagens, clãs
+e elementos do mundo ninja.
 
 ## Alguns dos conceitos abordados
 
