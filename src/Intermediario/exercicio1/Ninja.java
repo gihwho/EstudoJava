@@ -1,4 +1,4 @@
-package Intermediario;
+package Intermediario.exercicio1;
 
 public class Ninja {
     String nome;
